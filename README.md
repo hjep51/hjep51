@@ -17,6 +17,7 @@
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;added&quot;." title="My favorite word is &quot;added&quot;." width="64"></a>
 <a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
-<a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
+<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
+<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <!-- my-badges end -->
