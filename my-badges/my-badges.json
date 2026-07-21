@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"added\".",
-    "body": "My favorite commit message words are:\n\n1. added (used 19 times)\n2. done (used 14 times)\n3. code (used 12 times)\n4. option (used 5 times)\n5. commit (used 5 times)",
+    "body": "My favorite commit message words are:\n\n1. added (used 19 times)\n2. done (used 14 times)\n3. add (used 12 times)\n4. code (used 12 times)\n5. export (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -54,5 +54,26 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/hjep51/crop/commit/ab3f256dda500ba909dbbe41d5715c545a3fddd9\"><strong>ab</strong>3f256dda500ba909dbbe41d5715c545a3fddd9</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hjep51/crop/commit/ce41ed9b50ac7a0ccab7300b6485b18f167c54ae\">ce41ed9</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hjep51/crop/commit/1e0211123922ace0ce515c90e48ccb8414294790\">1e02111</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
