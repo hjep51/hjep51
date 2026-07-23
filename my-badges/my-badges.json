@@ -1,24 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/hjep51/birdnerd/commit/aace690461d1915dc60e22f61d5146b9ca9bf9a9\"><strong>a</strong>ace690461d1915dc60e22f61d5146b9ca9bf9a9</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"added\".",
-    "body": "My favorite commit message words are:\n\n1. added (used 19 times)\n2. add (used 18 times)\n3. done (used 14 times)\n4. code (used 12 times)\n5. crop (used 11 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "github-anniversary-5",
@@ -28,52 +14,10 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hjep51/birdnerd/commit/b395d3fd7d4808a35beda2f9c9945781e8599ede\">b395d3f</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hjep51/crop/commit/62b8bac7b84de77265fec804b98f34ba4beadece\">62b8bac</a>\n- <a href=\"https://github.com/hjep51/birdnerd/commit/93a219996901af53d14215349d8800695a125192\">93a2199</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hjep51/pi-webcam-streamer-server/commit/f4450017f8f941e68b89d6bd662883252967de70\">f445001</a>: Fixing focus errors\n- <a href=\"https://github.com/hjep51/pi-webcam-streamer-server/commit/2ebaa88a9be4e6bc7e0fb1643536c645e5554b7d\">2ebaa88</a>: Fixing focus error",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
     "id": "public-keys-1",
     "tier": 1,
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/hjep51/crop/commit/ab3f256dda500ba909dbbe41d5715c545a3fddd9\"><strong>ab</strong>3f256dda500ba909dbbe41d5715c545a3fddd9</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hjep51/crop/commit/ce41ed9b50ac7a0ccab7300b6485b18f167c54ae\">ce41ed9</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hjep51/crop/commit/1e0211123922ace0ce515c90e48ccb8414294790\">1e02111</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
